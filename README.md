@@ -93,4 +93,8 @@
 ## 📸 Capturas de pantalla
 
 ![Pantalla Principal de la aplicación OrganizaApp](images/Pantalla Principal.jpg)
+![Formulario para agregar una nueva tarea](images/Agregar tarea.jpg)
+![Ventana para editar una tarea existente](images/Editar tarea.jpg)
+![Gestor de categorías](images/categorias.jpg)
+
 
