@@ -103,3 +103,20 @@
 
 ![Diagrama de arquitectura MVVM](images/Diagrama_arquitectura.jpg)
 
+---
+
+## 📝 Licencia
+
+Este proyecto está distribuido bajo la licencia **MIT** - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+## 👤 Autor
+
+**[Yeison Stiven Casilima Rojas]**
+* **Perfil de GitHub:** [Yeison Casilima](https://github.com/jeisoncasilima-rgb)
+* **Contacto:** jeisoncasilima@gmail.com
+
+Proyecto creado y mantenido por [Yeison Casilima)
+
+
