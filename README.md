@@ -113,10 +113,11 @@ Este proyecto está distribuido bajo la licencia **MIT** - consulta el archivo [
 
 ## 👤 Autor
 
-**[Yeison Stiven Casilima Rojas]**
+**Yeison Stiven Casilima Rojas**
 * **Perfil de GitHub:** [Yeison Casilima](https://github.com/jeisoncasilima-rgb)
 * **Contacto:** jeisoncasilima@gmail.com
 
-Proyecto creado y mantenido por [Yeison Casilima)
+Proyecto creado y mantenido por Yeison Casilima
+
 
 
