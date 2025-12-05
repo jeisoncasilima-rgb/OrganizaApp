@@ -99,6 +99,7 @@
 
 ---
 
-## 🏗️ Diagrama de Arquitentura
+## 🏗️ Diagrama de Arquitectura
 
 ![Diagrama de arquitectura MVVM](images/Diagrama_arquitectura.jpg)
+
