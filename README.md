@@ -91,3 +91,6 @@
 ---
 
 ## 📸 Capturas de pantalla
+
+![Pantalla Principal de la aplicación OrganizaApp](images/Pantalla Principal.jpg)
+
