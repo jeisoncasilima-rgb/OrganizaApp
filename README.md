@@ -87,3 +87,7 @@
     * `ViewModelFactory` para la creación de instancias de ViewModel.
     * Inyección de dependencias en los ViewModels.
 * **Justificación:** Centraliza la lógica de creación de ViewModels...
+
+### 6. Capturas de pantalla
+![Captura de pantalla de la lista de tareas](images/pantalla_principal.png)
+
