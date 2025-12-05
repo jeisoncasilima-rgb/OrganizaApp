@@ -99,7 +99,7 @@
 
 ---
 
-## 🏗️ Diagrama de Arquitectura
+## 📐 Diagrama de Arquitectura
 
 ![Diagrama de arquitectura MVVM](images/Diagrama_arquitectura.jpg)
 
@@ -118,6 +118,7 @@ Este proyecto está distribuido bajo la licencia **MIT** - consulta el archivo [
 * **Contacto:** jeisoncasilima@gmail.com
 
 Proyecto creado y mantenido por Yeison Casilima
+
 
 
 
