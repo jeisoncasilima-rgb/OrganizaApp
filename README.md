@@ -88,6 +88,7 @@
     * Inyección de dependencias en los ViewModels.
 * **Justificación:** Centraliza la lógica de creación de ViewModels...
 
-### 6. Capturas de pantalla
-![Captura de pantalla de la lista de tareas](images/pantalla_principal.png)
+## 6. Capturas de pantalla
+![Captura de pantalla de la lista de tareas](images/Pantalla Principal.jpg)
+
 
