@@ -88,8 +88,6 @@
     * Inyección de dependencias en los ViewModels.
 * **Justificación:** Centraliza la lógica de creación de ViewModels...
 
+---
+
 ## 📸 Capturas de pantalla
-images/Pantalla Principal.jpg
-
-
-
